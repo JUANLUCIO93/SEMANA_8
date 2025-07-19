@@ -1,0 +1,11 @@
+/* Personalización de botón de alerta */
+.btn-warning {
+  font-size: 1.2rem;
+  border-radius: 20px;
+}
+
+/* Personalización del encabezado */
+header {
+  box-shadow: 0 4px 6px rgba(25, 209, 8, 0.1);
+}
+ 
